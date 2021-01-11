@@ -1,0 +1,25 @@
+{
+  "name": "simcrypt",
+  "version": "1.0.0",
+  "description": "a simple crypter using xor and md5",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["xor crypt decrypt md5 base64"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "simc": "index.js"
+  },
+  "author": "voteit.top@hotmail.com",
+  "homepage": "http://www.voteit.top",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voteit-top/simcrypt"
+  },
+  "dependencies": {
+	"commander":"^6.2.1",
+    "inquirer": "^7.3.3",
+    "md5":"^2.3.0"
+  }
+}
