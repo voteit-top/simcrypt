@@ -1,7 +1,7 @@
 ## simcrypt
 a simple crypter using xor and md5
-##usage
-###encrypt string
+## usage
+### encrypt string
 ```
 simc enc  'string to encrypt'
 please enter password: [hidden] encryptkey
