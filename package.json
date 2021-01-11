@@ -1,6 +1,6 @@
 {
   "name": "simcrypt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple crypter using xor and md5",
   "main": "index.js",
   "license": "MIT",
