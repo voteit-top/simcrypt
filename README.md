@@ -1,6 +1,7 @@
 ## simcrypt
 a simple crypter using xor and md5
 ## usage
+npm i simcrypt -g
 ### encrypt string
 ```
 simc enc  'string to encrypt'
