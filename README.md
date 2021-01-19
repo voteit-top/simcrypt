@@ -1,7 +1,13 @@
 ## simcrypt
 a simple crypter using xor and md5
 ## usage
+### npm
 npm i simcrypt -g
+### git
+git clone https://github.com/voteit-top/simcrypt.git
+cd simcrypt
+npm link
+
 ### encrypt string
 ```
 simc enc  'string to encrypt'
